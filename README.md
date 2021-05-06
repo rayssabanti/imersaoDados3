@@ -1,4 +1,4 @@
-<h1 align="center" style="color=green"> Imersão dados 3 </h1>
+<h1 align="center"> Imersão dados 3 </h1>
 Projeto de Data Science para a Imersão de dados 3 da Alura para aplicar meus conhecimentos de programação em Data Science. 
 
 ### Aulas e Desafios completados:
