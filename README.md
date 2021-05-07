@@ -3,7 +3,7 @@ Projeto de Data Science para a Imersão de dados 3 da Alura para aplicar meus co
 
 ### Aulas e Desafios completados:
 - [X] Python, Pandas e Pharmacia :heavy_check_mark:
-- [ ] Estatísticas, dados e distribuições
-- [ ] Correlações e causalidade
-- [ ] Merge e Análise de Resultados
-- [ ] Machine Learning e Sci-kit Learning
+- [X] Estatísticas, dados e distribuições :heavy_check_mark:
+- [X] Correlações e causalidade :heavy_check_mark:
+- [X] Merge e Análise de Resultados :heavy_check_mark:
+- [X] Machine Learning e Sci-kit Learning :heavy_check_mark:
